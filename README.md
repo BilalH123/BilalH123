@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BilalH123
-- 👀 I’m interested in computer science and have a keen interest in cryptography and IT
-- 🌱 I’m currently learning python in my spare time and java in university
-- ⚡ Fun fact: I have a wide range of interests which range from pool to boxing.
+- 👀 I’m am currently pursuing a BSc in Computer Science and have a keen interest in cryptography and IT
+- 🌱 I’m currently learning python, javascript and php in my spare time. I also like to code projects in my spare time using my newly found knowledge.
+- ⚡ Fun fact: I am interested in many sports ranging from pool to boxing, I have completed a 6-week beginner course in archery and have been playing pool for the past 5 years.
 
 <!---
 BilalH123/BilalH123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
